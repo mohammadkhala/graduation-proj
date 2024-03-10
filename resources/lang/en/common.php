@@ -33,7 +33,7 @@ return [
     'actions'   => 'Actions',
     'created_by'=> 'Created By',
     'class'     => 'Class',
-    'section'   => 'Section',
+    'section'   => 'hospital',
     'teacher'   => 'Teacher',
     'staff'     => 'Staff',
     'save'      => 'Save',
